@@ -28,4 +28,4 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 ```
 
-![ex1](./imgHomework/4)
+![ex1](./imgHomework/4.PNG)
